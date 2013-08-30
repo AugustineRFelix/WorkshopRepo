@@ -1,0 +1,1 @@
+select ID, FullUrl, Title, ScopeId from Webs where FirstUniqueAncestorWebId=ID and FullUrl like @urllike and SiteID=@siteid

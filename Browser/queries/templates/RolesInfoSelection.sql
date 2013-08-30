@@ -1,0 +1,1 @@
+select RoleId, Title from Roles where SiteId=@siteid

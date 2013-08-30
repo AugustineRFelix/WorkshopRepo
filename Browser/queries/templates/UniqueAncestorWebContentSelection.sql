@@ -1,0 +1,1 @@
+select FirstUniqueAncestorWebId, FullUrl, Title, ScopeId from Webs where FullUrl=@url

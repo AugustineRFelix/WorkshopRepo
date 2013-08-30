@@ -1,0 +1,1 @@
+select tp_ID from UserInfo where tp_Login=@user and tp_SiteID=@siteid
